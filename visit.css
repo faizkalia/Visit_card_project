@@ -1,0 +1,180 @@
+.three {
+    background-color: whitesmoke;
+}
+.con2{
+    margin-left: 4.8rem;
+}
+.navbar{
+    background-color: black;
+}
+.one{
+    background-color: black;
+}
+.four{
+    background-color: whitesmoke;
+}
+.btn1{
+    font-size: 14px;
+    width: 15rem;
+    border-radius: 8px;
+    background-color: white;
+    color: blue;
+
+}
+.btn:hover{
+    background-color: blue;
+    color: white;
+}
+.five{
+    width: 100%;
+    background-color: black;
+    height: 3rem;
+}
+.button1{
+    margin: 15px;
+    color: white;
+    border-color: white;
+    border-top: 0;
+}
+.button1:hover{
+    background-color: blue;
+}
+.dot{
+    height: 12px;
+    width: 12px;
+    background-color: yellowgreen;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 3px;
+}
+small{
+    margin-left: 1rem;
+    padding-top: 0.2rem;
+}
+.con1{
+    width: 42rem;
+}
+.card1{
+    box-shadow: -4px 0px 4px -4px grey;
+    left: 4px;
+}
+hr{
+    width: 16.9rem;
+}
+.sec{
+    box-shadow: 1px 1px gray;
+    border: none;
+}
+.Ip1{
+    width: 400px;
+    height: 40px;
+    border-radius: 0.4rem;
+    outline: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    border-top: 1px solid;
+    padding: 0.4rem;
+    box-shadow: -4px 4px 4px -4px grey;
+    left: 5px;
+}
+.Ip2{
+    width: 400px;
+    height: 100px;
+    padding: 5px;
+    border-radius: 4px;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    outline: none;
+    box-shadow: -4px 0px 4px -4px grey;
+    left: 5px;
+}
+.bt1{
+    width: 405px;
+    height: 30px;
+    border-radius: 5px;
+  }
+  .bt1:hover{
+    opacity: 0.7;
+  }
+  .text1{
+    font-size: 14px;
+  }
+  .text2{
+    font-size: 14px;
+  }
+  .text3{
+    font-size: 14px;
+  }
+  .fa1{
+    font-size: 12px;
+    margin-top: 1.1rem;
+  }
+  a:hover{
+    color: silver;
+    opacity: 0.5px;
+  }
+  .call1{
+    font-size: 14px;
+  }
+  @media only screen and (max-width: 768px){
+    .con2{
+        margin-left: 15rem;
+    }
+  }
+  @media only screen and (min-width:320px){
+    .con2{
+        margin: 0;
+    }
+    .card1{
+        margin: 0;
+    }
+    .cus1{
+        margin-right: 20rem;
+    }
+    .card1{
+        height: 30vh;
+        border-top:none;
+    }
+    .quotes1{
+        margin-right: 19rem;
+        font-size: 8px;
+    }
+    .Ip1{
+        width: 75vw;
+        height: 10vh;
+        font-size: 12px;
+        border-radius: 0.4rem;
+        outline: none;
+        border-left: none;
+        border-right: none;
+        border-bottom: none;
+        border-top: 1px solid;
+        padding: 0.4rem;
+        box-shadow: -4px 4px 4px -4px grey;
+        left: 5px;
+
+    }
+    .Ip2{
+        width: 75vw;
+        height: 20vh;
+        font-size: 12px;
+        border-radius: 4px;
+        border-left: none;
+        border-right: none;
+        border-bottom: none;
+        outline: none;
+        box-shadow: -4px 0px 4px -4px grey;
+        left: 5px;
+    }
+    ::placeholder{
+        font-size: 12px;
+    }
+    .bt1{
+        width: 75vw;
+        height: 10vh;
+        font-size: 12px;
+    }
+  }
